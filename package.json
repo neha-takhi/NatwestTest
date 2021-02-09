@@ -1,0 +1,45 @@
+{
+  "name": "react-hooks-counter-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakai-akinobu/react-hooks-counter-sample.git"
+  },
+  "author": "Akinobu SAKAI <sakai.akinobu@gmail.com> (https://github.com/sakai-akinobu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sakai-akinobu/react-hooks-counter-sample/issues"
+  },
+  "homepage": "https://github.com/sakai-akinobu/react-hooks-counter-sample#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "css-loader": "^5.0.2",
+    "file-loader": "^6.2.0",
+    "less": "^4.1.1",
+    "less-loader": "^8.0.0",
+    "webpack": "^4.24.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^4.6.0",
+    "react": "^16.8.3",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-animations": "^1.0.0",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^16.8.3",
+    "style-loader": "^2.0.0",
+    "styled-components": "^4.0.3"
+  }
+}
